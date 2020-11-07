@@ -22,6 +22,7 @@ try {
   console.error(e);
 }
 
+// Pin Code - UC4
 try {
   console.log(testPinCode("400 088"));
 } catch (e) {
